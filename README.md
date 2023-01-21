@@ -1,2 +1,3 @@
-# Quantum_Computing
-This repository shall contain research and projects on quantum technology carried out during the period of my Engineering.
+#Welcome to my study on Quantum Cryptography
+This study focuses on the nature in which quantum computing can help enchance network security mainly cryptography.
+The result of the study is to develop a basic algorithm of how data during transmission is encrypted and decrypted.
